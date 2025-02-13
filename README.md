@@ -1,7 +1,7 @@
 🌤 Weather App
 A simple weather application that displays current, daily, and hourly forecasts using the Open-Meteo API.
 
-![Screenshot 2025-02-11 233359](https://github.com/user-attachments/assets/addc28cb-ea8a-40ce-a855-1d2f672a2d6f)
+![image](https://github.com/user-attachments/assets/0d5ae24f-b9aa-44bd-81dd-0a85bcbec6fe)
 
 🚀 Features
 ✅ Current Weather: Temperature, wind speed, precipitation, and more
