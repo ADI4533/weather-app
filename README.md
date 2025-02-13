@@ -1,8 +1,6 @@
 🌤 Weather App
 A simple weather application that displays current, daily, and hourly forecasts using the Open-Meteo API.
 
-<!-- Add a screenshot of your app -->
-
 🚀 Features
 ✅ Current Weather: Temperature, wind speed, precipitation, and more
 ✅ 7-Day Forecast: View upcoming weather conditions
@@ -13,7 +11,7 @@ A simple weather application that displays current, daily, and hourly forecasts 
 🔧 Technologies Used
 HTML, CSS, JavaScript (Frontend UI)
 Open-Meteo API (Weather data)
-Vercel / Netlify (Deployment)
+Vercel (Deployment)
 📦 Installation & Setup
 1️⃣ Clone the Repository
 sh
